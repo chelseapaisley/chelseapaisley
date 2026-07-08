@@ -1,4 +1,4 @@
-# Howdy, I'm Chelsea 👋
+# Hi, I'm Chelsea 👋
 
 I'm an AI & Digital Product Manager working on digital experiences and AI products, and lately, the person who just builds the thing instead of waiting for someone else to. This is where that stuff lives.
 
