@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm [Name] 👋
 
-<!--
-**chelseapaisley/chelseapaisley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI & digital product manager working on digital experiences and AI products — and increasingly the person who just builds the thing instead of waiting for someone else to. This is where that stuff lives.
 
-Here are some ideas to get you started:
+## What you'll find here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Prompts and Claude skills for product work — Jira creation, documentation updates, the things PMs do repeatedly that should probably be automated by now. The occasional vibecoded side project. More as it comes.
+
+## About me
+
+Day job: AI & Digital Product Manager at [Company], working on self-serve experiences and AI features for a global support hub.  
+Building toward: a portfolio of creative and technical work that doesn't fit neatly into either category.
+
+Find me on [LinkedIn] or at [website].
